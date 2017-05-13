@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NerveNet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NerveNet_jar</output-path>
+    <root id="archive" name="NerveNet.jar">
+      <element id="module-output" name="NerveNet" />
+      <element id="extracted-dir" path="D:/program/Lib/args4j/args4j-2.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-actors-migration_2.11-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-swing_2.11-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/scala-2.11.8/lib/scala-xml_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/Lib/scalatest/scalactic_2.11-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/program/Lib/scalatest/scalatest_2.11-3.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
